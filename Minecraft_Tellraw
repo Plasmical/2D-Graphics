@@ -1,0 +1,5 @@
+I have a tellraw command in minecraft and all of the text appears but upon clicking the text I want all players to die. 
+But instead of all players dying nothing happens. 
+Here is my command: 
+tellraw @a {"text":"Kill all people?""color":"green","clickEvent":{CommandValue":"/kill @a"}} 
+Any help would be so useful. Thank you.
